@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Jozef Cyber Mind Security",
+  "description": "Jozef Cyber Mind Security tərəfindən hazırlanmış tam peşəkar, interaktiv kiber təhlükəsizlik portalı. SOC paneli, DDoS hücum simulyatoru, Flipper Zero simulyasiya laboratoriyası və təhlükəsiz admin paneli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
